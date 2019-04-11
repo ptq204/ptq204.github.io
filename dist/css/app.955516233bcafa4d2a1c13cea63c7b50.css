@@ -2805,7 +2805,7 @@ code, .code {
   .w-auto-m {    width: auto; }
 }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 100em) {
   .w1-l {      width: 1rem; }
   .w2-l {      width: 2rem; }
   .w3-l {      width: 4rem; }
