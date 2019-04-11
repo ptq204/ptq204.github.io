@@ -1,7 +1,7 @@
 ---
 title: "Small_talk"
 date: 2019-04-10T13:34:29+07:00
-draft: true
+draft: false
 ---
 
 ## **Nội dung chung**
