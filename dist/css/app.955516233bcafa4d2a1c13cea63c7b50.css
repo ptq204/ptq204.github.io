@@ -2826,7 +2826,7 @@ code, .code {
   .w-90-l {    width:  90%; }
   .w-100-l {   width: 100%; }
   .w-third-l { width: 33.33333%; }
-  .w-two-thirds-l { width: 100; }
+  .w-two-thirds-l { width: 100%; }
   .w-auto-l {    width: auto; }
 }
 
