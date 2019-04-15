@@ -1,46 +1,97 @@
 baseurl = "https://ptq204.github.io/"
 title = "The Quyen Pham"
-canonifyurls = true
-paginate = 10
-theme = "ananke"
-languageCode = "en-us"
-copyright = "Code released under the Apache 2.0 license."
-googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
-disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
-[author]
-  name = "The Quyen Pham"
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
 
 [params]
-  DateForm = "Mon, Jan 2, 2006"
-  Description = "Your site description"
-  Author = "The Quyen Pham"
-  email = "ptquyen1998@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
-  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  showReadTime = true #set to false to exclude read time from header of post
-  # This will load all the CSS defined in the list
-  #customCSS = ["<absolute path to CSS>", "/static/css/test.css", "<or just load it off the internet>"]
-  
-[[params.social]]
-  title = "github"
-  url = "https://github.com/ptq204"
-[[params.social]]
-  title = "facebook"
-  url = "https://www.facebook.com/FACEBOOKHANDLE"
+    author = "The-Quyen Pham"
+    description = "Quyen's interests and memories"
+    keywords = "blog,developer,personal"
+    info = "Backend Fresher"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "don't try to be different, let things go naturally"
 
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
-[[menu.main]]
-  name = "Post"
-  url = "/posts/"
-  weight = -180
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = -180
-[[menu.main]]
-  name = "Resume"
-  url = "/resume/"
-  weight = -180
+    dateformat = "January 2, 2006"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Use inverted colors
+    inverted = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+[taxonomies]
+  series = "series"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/ptq204"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook"
+    weight = 3
+    url = "https://www.facebook.com/profile.php?id=100006628757622"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/the-quyen-pham-62743512a/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 5
+    url = "https://medium.com/@quynphmth"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/_PhamTheQuyen_"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "/posts/"
+
+        [[languages.en.menu.main]]
+        name = "Projects"
+        weight = 3
+        url = "/projects/"
+
+        [[languages.en.menu.main]]
+        name = "Contact me"
+        weight = 5
+        url = "/contact/"
