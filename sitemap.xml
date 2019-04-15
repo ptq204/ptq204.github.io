@@ -3,22 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ptq204.github.io/posts/small_talk/</loc>
+    <loc>https://ptq204.github.io/about01/blog/</loc>
     <lastmod>2019-04-10T13:34:29+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ptq204.github.io/posts/tmp/</loc>
+    <loc>https://ptq204.github.io/about01/</loc>
     <lastmod>2019-04-10T13:34:29+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ptq204.github.io/posts/the_fine_art_of_small_talk/</loc>
-    <lastmod>2019-04-10T13:34:29+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ptq204.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -29,13 +20,30 @@
   </url>
   
   <url>
-    <loc>https://ptq204.github.io/tags/</loc>
+    <loc>https://ptq204.github.io/</loc>
+    <lastmod>2019-04-10T13:34:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ptq204.github.io/</loc>
+    <loc>https://ptq204.github.io/posts/the_fine_art_of_small_talk/</loc>
     <lastmod>2019-04-10T13:34:29+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptq204.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ptq204.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ptq204.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ptq204.github.io/series/</loc>
     <priority>0</priority>
   </url>
   

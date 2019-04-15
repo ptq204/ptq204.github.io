@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About01s on The Quyen Pham</title>
+    <link>https://ptq204.github.io/about01/</link>
+    <description>Recent content in About01s on The Quyen Pham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Apr 2019 13:34:29 +0700</lastBuildDate>
+    
+	<atom:link href="https://ptq204.github.io/about01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://ptq204.github.io/about01/blog/</link>
+      <pubDate>Wed, 10 Apr 2019 13:34:29 +0700</pubDate>
+      
+      <guid>https://ptq204.github.io/about01/blog/</guid>
+      <description>Hi I&amp;rsquo;m Quyen. I&amp;rsquo;m currently a 3rd year computer science student at Ho Chi Minh university of Science. I like the sunset and listening to music before sleep.</description>
+    </item>
+    
+  </channel>
+</rss>
