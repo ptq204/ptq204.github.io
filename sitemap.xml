@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ptq204.github.io/tags/</loc>
+    <loc>https://ptq204.github.io/</loc>
     <lastmod>2019-04-10T13:34:29+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -31,24 +31,7 @@
   </url>
   
   <url>
-    <loc>https://ptq204.github.io/</loc>
-    <lastmod>2019-04-10T13:34:29+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ptq204.github.io/tags/scene/</loc>
-    <lastmod>2019-04-10T13:34:29+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ptq204.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ptq204.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -57,6 +40,11 @@
   
   <url>
     <loc>https://ptq204.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ptq204.github.io/series/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
