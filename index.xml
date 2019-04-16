@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Quyen Pham</title>
+    <title>The-Quyen Pham</title>
     <link>https://ptq204.github.io/</link>
-    <description>Recent content on The Quyen Pham</description>
+    <description>Recent content on The-Quyen Pham</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>The-Quyen Pham - All rights reserved</copyright>
     <lastBuildDate>Wed, 10 Apr 2019 13:34:29 +0700</lastBuildDate>
     
 	<atom:link href="https://ptq204.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +27,7 @@
       <pubDate>Wed, 10 Apr 2019 13:34:29 +0700</pubDate>
       
       <guid>https://ptq204.github.io/posts/the_fine_art_of_small_talk/</guid>
-      <description>Small talk đúng như nghĩa đen là những cuộc trò chuyện ngắn tuy nhiên nó lại mang lại giá trị lâu dài. Đằng sau chữ &amp;ldquo;Small&amp;rdquo; ấy là cả một quá trình nỗ lực để có thể gây dựng một &amp;ldquo;talk&amp;rdquo; hiệu quả. Theo tôi, Small talk là khó! khó nhất ở bước mở màn cũng giống như bài tập làm văn vậy, mở bài là phần khó viết hơn cả và nếu mở bài bạn fail thì cả bài văn không được đánh giá cao.</description>
+      <description>Small talk đúng như nghĩa đen là những cuộc trò chuyện ngắn tuy nhiên nó lại mang lại giá trị lâu dài. Đằng sau chữ &amp;ldquo;Small&amp;rdquo; ấy là cả một quá trình nỗ lực để có thể gây dựng một &amp;ldquo;talk&amp;rdquo; hiệu quả.</description>
     </item>
     
     <item>
@@ -35,8 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ptq204.github.io/about/</guid>
-      <description> Hi I&amp;rsquo;m Quyen. I&amp;rsquo;m currently a 3rd year computer science student at Ho Chi Minh university of Science. I like the sunset, listening to music before sleep and horror stuff.
-Interests  Backend API System architect GraphQL Java  Things to learn  Big data Data science Deep learning Cryptography Blockchain  </description>
+      <description>Hi I&amp;rsquo;m Quyen. I&amp;rsquo;m currently a 3rd year computer science student at Ho Chi Minh university of Science. I like the sunset, listening to music before sleep and horror stuff.</description>
     </item>
     
     <item>
